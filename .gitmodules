@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/escience"]
+	path = wp-content/themes/escience
+	url = git@github.com:idies/escience-2016-wp-theme.git
